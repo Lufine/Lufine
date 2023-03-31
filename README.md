@@ -11,7 +11,16 @@
 - 👨🏻‍🎓 Cursando o 5° Período de Engenharia de Software, estudando programação, Programação Orientada a Objetos, Banco de Dados, Gerência de Projetos de Software e Engenharia de Software Experimental. Aprendi várias linguagens de programação.
 -	🎓 Estudante de Engenharia de Software na universidade UNIEVANGELICA
 -	👨🏻‍💻 Software Engineer
-   
+
+##
+<div align="center">
+<h3> Skill's 👾 </h3>
+ <div align="center">
+   <a href="https://github.com/Lufine"> <br>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lufine&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lufine&layout=compact&langs_count=7&theme=gotham"/>
+ </div> 
+
  ##
  <div align="center">
  <h3> Programming Language's 🗣️ </h3>
