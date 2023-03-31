@@ -62,8 +62,8 @@
         <div align="center">
         <a text align="left" href="mailto:lfneuwirth@gmail.com">
          <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a text align="left" target="_blank" href="https://www.linkedin.com/in/luiz-filipe-neuwirth-9800b7208/">
-         <img align="center" target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a text align="left" href="https://www.linkedin.com/in/luiz-filipe-neuwirth-9800b7208/" target="_blank">
+         <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         <a href="https://www.instagram.com/_lufine/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
          </div>
