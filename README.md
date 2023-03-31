@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Le+ o + ne + u !)](https://git.io/typing-svg) 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Le+o+ne+u!)](https://git.io/typing-svg) 
 
 
 <h3> Luiz Filipe 🚀🌌☄ </h3>
