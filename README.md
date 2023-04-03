@@ -73,4 +73,4 @@
  <div align="center">
  <h3> Snake Game 🐍 </h3>
  
- ![Snake animation](https://github.com/helloAle/helloAle/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Lufine/Lufine/blob/output/github-contribution-grid-snake.svg)
