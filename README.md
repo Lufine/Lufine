@@ -75,12 +75,12 @@
 </div>
    <div>
        <div align="center">
-        <a text align="left" href="mailto:lfneuwirth@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <a target="_blank" text align="left" href="mailto:lfneuwirth@gmail.com">
+        <img target="_blank" align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
         <a target="_blank" text align="left" href="https://www.linkedin.com/in/luiz-filipe-neuwirth-9800b7208/">
-        <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-        <a href="https://www.instagram.com/_lufine/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+        <img target="_blank" align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a target="_blank" href="https://www.instagram.com/_lufine/">
+        <img target="_blank" align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
        </div>
    </div> 
 
