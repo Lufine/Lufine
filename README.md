@@ -5,8 +5,8 @@
 
 ##
 <div align="center">
-<h3> About me 🙋🏻‍♂️ </h3>
- </div> 
+    <h3> About me 🙋🏻‍♂️ </h3>
+</div> 
  
 - 👨🏻‍🎓 Cursando o 5° Período de Engenharia de Software, estudando programação, Programação Orientada a Objetos, Banco de Dados, Gerência de Projetos de Software e Engenharia de Software Experimental. Aprendi várias linguagens de programação.
 -	🎓 Estudante de Engenharia de Software na universidade UNIEVANGELICA
@@ -14,16 +14,18 @@
 
 ##
 <div align="center">
-<h3> Skill's 👾 </h3>
- <div align="center">
+    <h3> Skill's 👾 </h3>
+ 
+<div align="center">
    <a href="https://github.com/Lufine"> <br>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lufine&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lufine&layout=compact&langs_count=7&theme=gotham"/>
- </div> 
+</div> 
 
  ##
- <div align="center">
- <h3> Programming Language's 🗣️ </h3>
+<div align="center">
+    <h3> Programming Language's 🗣️ </h3>
+</div> 
    <div style="display: inline_block">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -33,6 +35,7 @@
     <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+</div> 
 
 ##
 <h3> Other Technologie's 💻 </h3>
@@ -64,9 +67,11 @@
      <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
      <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 
+</div> 
   ##
  <div align="center">
- <h3> Social media's 🤳🏻 </h3>
+    <h3> Social media's 🤳🏻 </h3>
+ </div>
    <div>
         <div align="center">
         <a text align="left" href="mailto:lfneuwirth@gmail.com">
@@ -79,7 +84,8 @@
     </div> 
 
  ##
- <div align="center">
- <h3> Snake Game 🐍 </h3>
+<div align="center">
+    <h3> Snake Game 🐍 </h3>
+</div> 
  
  ![Snake animation](https://github.com/Lufine/Lufine/blob/output/github-contribution-grid-snake.svg)
