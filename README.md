@@ -8,7 +8,7 @@
     <h3> About me 🙋🏻‍♂️ </h3>
 </div> 
  
-- 👨🏻‍🎓 Cursando o 5° Período de Engenharia de Software, estudando programação, Programação Orientada a Objetos, Banco de Dados, Gerência de Projetos de Software e Engenharia de Software Experimental. Aprendi várias linguagens de programação.
+- 👨🏻‍🎓 Cursando o 7° Período de Engenharia de Software, estudando programação, Programação Orientada a Objetos, Banco de Dados, Gerência de Projetos de Software e Engenharia de Software Experimental. Aprendi várias linguagens de programação.
 -	🎓 Estudante de Engenharia de Software na universidade UNIEVANGELICA
 -	👨🏻‍💻 Software Engineer
 
