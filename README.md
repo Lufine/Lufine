@@ -8,9 +8,33 @@
     <h3> About me 🙋🏻‍♂️ </h3>
 </div> 
  
-- 👨🏻‍🎓 Cursando o 8° Período de Engenharia de Software, estudando programação, Programação Orientada a Objetos, Banco de Dados, Gerência de Projetos de Software e Engenharia de Software Experimental. Aprendi várias linguagens de programação.
--	🎓 Estudante de Engenharia de Software na universidade UNIEVANGELICA
--	👨🏻‍💻 Software Engineer
+- 🎓 Formado em Engenharia de Software pela UNIEVANGÉLICA
+
+- 👨🏻‍💻 Software Engineer com foco em desenvolvimento de aplicações e boas práticas de engenharia
+
+- 💡 Durante minha formação e experiência prática, desenvolvi habilidades nas principais áreas da Engenharia de Software:
+
+    - Programação e lógica de desenvolvimento
+
+    - Programação Orientada a Objetos (POO)
+
+    - Banco de Dados — modelagem, consultas SQL, normalização e otimização
+
+    - Gerência de Projetos de Software — Scrum, Kanban e boas práticas de gestão
+
+    - Engenharia de Software Experimental — testes, coleta de dados e análise de experimentos
+
+    - Arquitetura e Design de Software — padrões de projeto, modularização e escalabilidade
+
+    - Versionamento e controle de código com Git e GitHub
+
+- 🚀 Tenho experiência prática com diversas linguagens, frameworks e ferramentas do ecossistema moderno de desenvolvimento
+
+- 🔍 Apaixonado por solucionar problemas, desenvolver aplicações de forma eficiente e aplicar técnicas de engenharia para criar software de qualidade
+
+- 📈 Sempre buscando evoluir, aprender novas tecnologias e construir projetos cada vez mais robustos e interessantes
+
+- 🤝 Aberto a colaboração, networking e novos desafios na área de tecnologia
 
 ##
 <div align="center">
