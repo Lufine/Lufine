@@ -1,115 +1,190 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Lufine+😎🙏!)](https://git.io/typing-svg) 
-
-
-<h3> Luiz Filipe 🚀🌌☄ </h3>
-
-##
 <div align="center">
-    <h3> About me 🙋🏻‍♂️ </h3>
-</div> 
- 
-- 🎓 Formado em Engenharia de Software pela UNIEVANGÉLICA
 
-- 👨🏻‍💻 Software Engineer com foco em desenvolvimento de aplicações e boas práticas de engenharia
+# Luiz Filipe
 
-- 💡 Durante minha formação e experiência prática, desenvolvi habilidades nas principais áreas da Engenharia de Software:
+### Software Engineer · Full Stack · Backend · DevOps · AI
 
-    - Programação e lógica de desenvolvimento
+Building reliable, scalable and maintainable software.
 
-    - Programação Orientada a Objetos (POO)
-
-    - Banco de Dados — modelagem, consultas SQL, normalização e otimização
-
-    - Gerência de Projetos de Software — Scrum, Kanban e boas práticas de gestão
-
-    - Engenharia de Software Experimental — testes, coleta de dados e análise de experimentos
-
-    - Arquitetura e Design de Software — padrões de projeto, modularização e escalabilidade
-
-    - Versionamento e controle de código com Git e GitHub
-
-- 🚀 Tenho experiência prática com diversas linguagens, frameworks e ferramentas do ecossistema moderno de desenvolvimento
-
-- 🔍 Apaixonado por solucionar problemas, desenvolver aplicações de forma eficiente e aplicar técnicas de engenharia para criar software de qualidade
-
-- 📈 Sempre buscando evoluir, aprender novas tecnologias e construir projetos cada vez mais robustos e interessantes
-
-- 🤝 Aberto a colaboração, networking e novos desafios na área de tecnologia
-
-##
-<div align="center">
-    <h3> Skill's 👾 </h3>
- 
-<div align="center">
-   <a href="https://github.com/Lufine"> <br>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lufine&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lufine&layout=compact&langs_count=7&theme=gotham"/>
-</div> 
-
- ##
-<div align="center">
-    <h3> Programming Language's 🗣️ </h3>
-</div> 
-   <div style="display: inline_block">
-    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="NodeJs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg">
-    <img align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-plain.svg">
-   </div> 
-
-##
-<h3> Other Technologie's 💻 </h3>
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original-wordmark.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
-
-##
-<h3> GIT 🦊 </h3>    
-    <img align="center" alt="GITHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-    <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="GITLAB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-    
-##
-<h3> Board's 📚 </h3>    
-    <img align="center" alt="Trello" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
-     
-##
-<h3> Browser's 🌌 </h3>    
-    <img align="center" alt="Google" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
-    <img align="center" alt="Firefox" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"/>
-    <img align="center" alt="Opera" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg"/>
-    
-##
-<h3> Compiler's 🖋️</h3>
-    <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-    
-##
-<h3> Operational System's 📀 </h3>
-     <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luiz-filipe-neuwirth-9800b7208/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:lfneuwirth@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Lufine)
 
 </div>
-    
-  ##
-<div align="center">
-    <h3> Social media's 🤳🏻 </h3>
-</div>
-   <div>
-       <div align="center">
-        <a target="_blank" text align="left" href="mailto:lfneuwirth@gmail.com">
-        <img target="_blank" align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-        <a target="_blank" text align="left" href="https://www.linkedin.com/in/luiz-filipe-neuwirth-9800b7208/">
-        <img target="_blank" align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-       </div>
-   </div> 
 
- ##
+---
+
+## About
+
+I'm a **Software Engineer** graduated in Software Engineering at **UNIEVANGÉLICA**, focused on building web applications, backend services, APIs and production-ready systems.
+
+My work spans across the software development lifecycle — from **architecture and database design to development, testing, deployment and infrastructure**.
+
+I enjoy solving complex problems, improving existing systems and turning business requirements into reliable software.
+
+### What I work with
+
+* 🏗️ Software Architecture & Design
+* 💻 Full-Stack & Backend Development
+* 🔌 REST APIs & System Integrations
+* 🗄️ Database Design & Optimization
+* 🔐 Authentication, Authorization & SSO
+* 🤖 Artificial Intelligence & LLM integrations
+* 🐳 Docker & Containerized Applications
+* ⚙️ CI/CD & Jenkins Pipelines
+* 🐧 Linux & Server Administration
+* 🌐 Nginx, Reverse Proxy & Production Infrastructure
+* 🔄 Git, GitHub & GitLab
+* 📈 System Troubleshooting & Performance Optimization
+
+---
+
+## Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+
+### Frontend & Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square\&logo=fastapi\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+
+### DevOps & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
+
+### Artificial Intelligence
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square\&logo=openai\&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20Integration-6E56CF?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=flat-square)
+
+**AI Assistants · LLM APIs · AI Automation · Context Engineering · Prompt Engineering**
+
+---
+
+## Engineering
+
+I care about more than simply making software work.
+
+My approach is centered around:
+
+```text
+Architecture
+    ↓
+Clean & Maintainable Code
+    ↓
+Reliable Data & APIs
+    ↓
+Automated Testing
+    ↓
+CI/CD
+    ↓
+Containerization
+    ↓
+Production Infrastructure
+    ↓
+Monitoring & Continuous Improvement
+```
+
+I particularly enjoy working on systems where **software engineering, automation and infrastructure come together**.
+
+---
+
+## Featured Projects
+
+> A selection of projects that represent my experience with software engineering, backend development, infrastructure and automation.
+
+### 🚀 SetteWork
+
+Enterprise platform focused on productivity, workflow management and business operations.
+
+**Stack:** TypeScript · Node.js · React · PostgreSQL · Docker · Nginx · Jenkins · REST APIs · SSO · AI
+
+---
+
+### 🤖 AI & Automation
+
+Projects involving **LLM integrations, AI assistants, automated workflows and intelligent business processes**.
+
+**Stack:** Node.js · TypeScript · Python · LLM APIs · REST APIs · Docker
+
+---
+
+### ⚙️ Backend & Integrations
+
+Backend services and integrations connecting business systems, APIs, databases and automated workflows.
+
+**Stack:** Node.js · TypeScript · PostgreSQL · MongoDB · REST APIs · Docker
+
+---
+
+## GitHub
+
 <div align="center">
-    <h3> Snake Game 🐍 </h3>
-</div> 
- 
- ![Snake animation](https://github.com/Lufine/Lufine/blob/output/github-contribution-grid-snake.svg)
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lufine&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lufine&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## Currently
+
+```text
+🔭 Building      → Scalable web applications & business platforms
+🤖 Exploring     → AI, LLMs & intelligent automation
+⚙️ Improving     → CI/CD, infrastructure & developer experience
+🏗️ Learning      → Software architecture & distributed systems
+🐧 Working with  → Linux, Docker, Nginx & production environments
+```
+
+---
+
+## Let's Connect
+
+I'm always interested in **interesting projects, technical discussions, collaboration and new challenges in software engineering**.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/luiz-filipe-neuwirth-9800b7208/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:lfneuwirth@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Designed and built by Luiz Filipe</sub>
+
+</div>
