@@ -141,15 +141,15 @@ Backend services and integrations connecting business systems, APIs, databases a
 
 ---
 
-## GitHub
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lufine&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+<a href="https://github.com/Lufine">
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lufine&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
-<img src="https://streak-stats.demolab.com?user=Lufine&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -157,9 +157,10 @@ Backend services and integrations connecting business systems, APIs, databases a
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lufine\&theme=github-compact\&hide_border=true)
+![Snake animation](https://github.com/Lufine/Lufine/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
 
 
 ---
