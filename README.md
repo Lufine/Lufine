@@ -143,14 +143,22 @@ Backend services and integrations connecting business systems, APIs, databases a
 
 ## GitHub Activity
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Lufine&show_icons=true&include_all_commits=true&commits_year=2026&hide=stars&theme=github_dark&hide_border=true"
-  alt="Luiz Filipe GitHub Stats"
-/>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://readme-stats-github.pages.dev/api?username=Lufine&theme=shadow"
+        height="160"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://readme-stats-github.pages.dev/api/top-langs?username=Lufine&theme=shadow"
+        height="120"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
