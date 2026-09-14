@@ -141,24 +141,41 @@ Backend services and integrations connecting business systems, APIs, databases a
 
 ---
 
-## GitHub Activity
+## GitHub
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://SEU-STATS/api?username=Lufine&theme=shadow&count_private=true&include_all_commits=true"
-        height="160"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://SEU-STATS/api/top-langs?username=Lufine&theme=shadow&count_private=true"
-        height="120"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <img
+    src="https://readme-stats-github.pages.dev/api?username=Lufine&theme=shadow"
+    height="165"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://readme-stats-github.pages.dev/api/top-langs?username=Lufine&theme=shadow"
+    height="165"
+    alt="Top Languages"
+  />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lufine&theme=github-compact&hide_border=true"
+    width="95%"
+    alt="GitHub Contributions"
+  />
+
+</div>
+
+<br />
+
+<p align="center">
+  <strong>Consistent development • Open source • Backend • Full Stack • DevOps • AI</strong>
+</p>
 
 ---
 
