@@ -147,13 +147,14 @@ Backend services and integrations connecting business systems, APIs, databases a
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://readme-stats-github.pages.dev/api?username=Lufine&theme=shadow"
+        src="https://readme-stats-github.pages.dev/api?username=Lufine&theme=shadow&count_private=true&include_all_commits=true"
         height="160"
       />
     </td>
+
     <td align="center" width="50%">
       <img
-        src="https://readme-stats-github.pages.dev/api/top-langs?username=Lufine&theme=shadow"
+        src="https://readme-stats-github.pages.dev/api/top-langs?username=Lufine&theme=shadow&count_private=true"
         height="120"
       />
     </td>
