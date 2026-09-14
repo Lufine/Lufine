@@ -199,6 +199,15 @@ I'm always interested in **interesting projects, technical discussions, collabor
 ---
 
 <div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Lufine/Lufine/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</div>
+
+---
+
+<div align="center">
 
 <sub>Designed and built by Luiz Filipe</sub>
 
