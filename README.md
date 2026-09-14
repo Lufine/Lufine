@@ -141,27 +141,19 @@ Backend services and integrations connecting business systems, APIs, databases a
 
 ---
 
-## GitHub Activity
+## GitHub
 
 <div align="center">
 
 <a href="https://github.com/Lufine">
+  <img src="https://img.shields.io/github/followers/Lufine?style=flat-square&logo=github&label=Followers" />
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lufine&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
+<a href="https://github.com/Lufine?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=flat-square&logo=github" />
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-![Snake animation](https://github.com/Lufine/Lufine/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-
 
 ---
 
