@@ -141,17 +141,14 @@ Backend services and integrations connecting business systems, APIs, databases a
 
 ---
 
-## GitHub
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/Lufine">
-  <img src="https://img.shields.io/github/followers/Lufine?style=flat-square&logo=github&label=Followers" />
-</a>
-
-<a href="https://github.com/Lufine?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=flat-square&logo=github" />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Lufine&show_icons=true&include_all_commits=true&commits_year=2026&hide=stars&theme=github_dark&hide_border=true"
+  alt="Luiz Filipe GitHub Stats"
+/>
 
 </div>
 
