@@ -147,14 +147,12 @@ Backend services and integrations connecting business systems, APIs, databases a
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://readme-stats-github.pages.dev/api?username=Lufine&theme=shadow"
-        height="160"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=lufine&theme=radical&mode=weekly"
       />
     </td>
     <td align="center" width="50%">
       <img
-        src="https://readme-stats-github.pages.dev/api/top-langs?username=Lufine&theme=shadow"
-        height="120"
+        src="https://github-readme-stats-five-iota-19.vercel.app/api/top-langs/?username=lufine&show_icons=true&theme=radical&layout=compact"
       />
     </td>
   </tr>
