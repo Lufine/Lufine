@@ -6,9 +6,9 @@
 
 Building reliable, scalable and maintainable software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luiz-filipe-neuwirth-9800b7208/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:lfneuwirth@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Lufine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-filipe-neuwirth-9800b7208/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lfneuwirth@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lufine)
 
 </div>
 
@@ -16,24 +16,23 @@ Building reliable, scalable and maintainable software.
 
 ## About
 
-I'm a **Software Engineer** graduated in Software Engineering at **UNIEVANGÉLICA**, focused on building web applications, backend services, APIs and production-ready systems.
+I'm a **Software Engineer** with a degree in Software Engineering from **UNIEVANGÉLICA**. I build web and mobile applications, backend services, APIs and the infrastructure that keeps them running in production.
 
-My work spans across the software development lifecycle — from **architecture and database design to development, testing, deployment and infrastructure**.
-
-I enjoy solving complex problems, improving existing systems and turning business requirements into reliable software.
+I work across the whole development lifecycle: **architecture and database design, development, testing, deployment and infrastructure**. I like turning real business requirements into reliable software, and improving systems that are already in use.
 
 ### What I work with
 
 * 🏗️ Software Architecture & Design
-* 💻 Full-Stack & Backend Development
-* 🔌 REST APIs & System Integrations
+* 💻 Full-Stack & Backend Development (Web and Mobile)
+* 🔌 REST APIs & Third-Party System Integrations
 * 🗄️ Database Design & Optimization
 * 🔐 Authentication, Authorization & SSO
-* 🤖 Artificial Intelligence & LLM integrations
+* 🤖 Artificial Intelligence & LLM Integrations
 * 🐳 Docker & Containerized Applications
 * ⚙️ CI/CD & Jenkins Pipelines
 * 🐧 Linux & Server Administration
 * 🌐 Nginx, Reverse Proxy & Production Infrastructure
+* 💾 Scheduled Backups & Disaster Recovery
 * 🔄 Git, GitHub & GitLab
 * 📈 System Troubleshooting & Performance Optimization
 
@@ -43,41 +42,41 @@ I enjoy solving complex problems, improving existing systems and turning busines
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### Frontend & Backend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### DevOps & Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 ### Artificial Intelligence
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square\&logo=openai\&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM%20Integration-6E56CF?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=flat-square)
 
@@ -87,9 +86,9 @@ I enjoy solving complex problems, improving existing systems and turning busines
 
 ## Engineering
 
-I care about more than simply making software work.
+I care about more than making software work. I care about keeping it working.
 
-My approach is centered around:
+My approach follows the full life of a system:
 
 ```text
 Architecture
@@ -109,35 +108,107 @@ Production Infrastructure
 Monitoring & Continuous Improvement
 ```
 
-I particularly enjoy working on systems where **software engineering, automation and infrastructure come together**.
+I especially enjoy systems where **software engineering, automation and infrastructure come together**.
 
 ---
 
 ## Featured Projects
 
-> A selection of projects that represent my experience with software engineering, backend development, infrastructure and automation.
+> A selection of systems that represent my experience with software engineering, backend development, infrastructure and automation.
 
-### 🚀 SetteWork
+### 🗂️ Work Management Platform
 
-Enterprise platform focused on productivity, workflow management and business operations.
+Web platform for team productivity and workflow management: Kanban boards, subtasks, visual automations, a knowledge base, a collaborative document editor, comments with mentions and internal chat. Includes workspace-based access control, SSO and audit trail.
 
-**Stack:** TypeScript · Node.js · React · PostgreSQL · Docker · Nginx · Jenkins · REST APIs · SSO · AI
-
----
-
-### 🤖 AI & Automation
-
-Projects involving **LLM integrations, AI assistants, automated workflows and intelligent business processes**.
-
-**Stack:** Node.js · TypeScript · Python · LLM APIs · REST APIs · Docker
+**Stack:** TypeScript · Node.js · React · PostgreSQL · Docker · Nginx · Jenkins · REST APIs · SSO
 
 ---
 
-### ⚙️ Backend & Integrations
+### 📄 Contract & Digital Signature APIs
 
-Backend services and integrations connecting business systems, APIs, databases and automated workflows.
+A set of APIs that builds customer contracts, generates the digital signature link and polls the signature status until the contract is signed, so the commercial team doesn't have to follow each one by hand.
 
-**Stack:** Node.js · TypeScript · PostgreSQL · MongoDB · REST APIs · Docker
+**Stack:** Node.js · TypeScript · REST APIs · Docker
+
+---
+
+### 🛡️ Automated Credit Analysis Bot
+
+Service that checks each customer's credit status, classifies the result, moves the deal to the right stage of the sales funnel on the ERP/CRM and sends it to a Telegram bot for human review, with a feedback loop that tracks the accuracy of the analysis.
+
+**Stack:** Node.js · Express · Telegram Bot API · ERP/CRM Integration · Docker
+
+---
+
+### 🔔 Notification Server
+
+Python service that sends push notifications and WhatsApp messages: bill and contract reminders, outage notices and chat alerts, with scheduled dispatch and background workers.
+
+**Stack:** Python · Django · Celery · Redis · Docker · Nginx
+
+---
+
+### 📱 Customer Mobile App
+
+Cross-platform mobile app for customers, integrated with the company's systems and with push notifications.
+
+**Stack:** React Native · Expo · TypeScript
+
+---
+
+### 📶 Multi-Tenant Wi-Fi Hotspot SaaS
+
+Platform that lets multiple companies manage their own Wi-Fi hotspots, with a captive portal, RADIUS authentication, background jobs and metrics dashboards.
+
+**Stack:** NestJS · PostgreSQL · Redis · BullMQ · FreeRADIUS · Prometheus · Grafana
+
+---
+
+### 🧾 Invoice Management System
+
+System to track and control every invoice that comes in and goes out of the company, giving finance full visibility of the flow.
+
+**Stack:** TypeScript · Node.js · PostgreSQL · Docker
+
+---
+
+### 🏷️ Asset Inventory System
+
+Asset management with sectors, responsible people, movements, inventory events and straight-line depreciation.
+
+**Stack:** React · TypeScript · Node.js · Express · Prisma · PostgreSQL · JWT
+
+---
+
+### 🐳 Container Control Panel
+
+Internal system to monitor and control all of the company's containers in one place.
+
+**Stack:** Docker · Linux · TypeScript
+
+---
+
+### 🧠 HR Psychosocial Risk Survey
+
+Digital questionnaire built for the HR team to collect and analyze psychosocial risk assessments.
+
+**Stack:** TypeScript · React · Node.js
+
+---
+
+### ⚽ World Cup Prediction Game
+
+Internal prediction game for the company's World Cup, with all national teams and players, rankings and bets.
+
+**Stack:** TypeScript · React · Node.js
+
+---
+
+### 🛠️ Server Infrastructure & Backups
+
+Configuration of Linux servers with Nginx as reverse proxy for every system, Docker Compose deployments, Jenkins pipelines and automated database backups on a fixed schedule.
+
+**Stack:** Linux · Nginx · Docker Compose · Jenkins · Shell Script
 
 ---
 
@@ -180,7 +251,7 @@ Backend services and integrations connecting business systems, APIs, databases a
 
 ## Let's Connect
 
-I'm always interested in **interesting projects, technical discussions, collaboration and new challenges in software engineering**.
+I'm always open to **interesting projects, technical discussions, collaboration and new challenges in software engineering**.
 
 <div align="center">
 
